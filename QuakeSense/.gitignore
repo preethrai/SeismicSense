@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.npy
+*.pt
+*.pth
+.env
+.ipynb_checkpoints/
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
